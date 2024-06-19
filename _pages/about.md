@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Arshad Mehmood"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-A computational chemist advancing the frontiers of molecular and material science through cutting-edge simulations and high-performance computing. My research delves into the development of electronic structure visualization tools, quantum crystallography, and simulations of ultrafast spectroscopy observables, excited-state dynamics, and the intricate photochemistry of quantum dots and molecular systems.
+A computational chemist advancing the frontiers of molecular and material science through cutting-edge simulations and high-performance computing. My research delves into the development of electronic structure visualization tools, quantum crystallography, simulations of ultrafast spectroscopy observables, excited-state dynamics, and the intricate photochemistry of molecular systems and quantum dots.
+
+I am currently working as a Senior Research Scientist in the Division of Information Technology (DoIT) - Research Computing, Informatics & Innovation, and the Institute for Advanced Computational Science (IACS) at Stony Brook University, NY.
 
 A data-driven personal website
 ======
