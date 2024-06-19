@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 A computational chemist advancing the frontiers of molecular and material science through cutting-edge simulations and high-performance computing. My research delves into the development of electronic structure visualization tools, quantum crystallography, simulations of ultrafast spectroscopy observables, excited-state dynamics, and the intricate photochemistry of molecular systems and quantum dots.
+
+I earned my PhD from [Texas Christian University](https://www.tcu.edu/) in December 2020 with a dissertation titled "[A Computational Toolkit for Understanding Orbital Overlap and Chemical Reactivity](https://repository.tcu.edu/handle/116099117/42785)" supervised by [Prof. Benjamin G. Janesko](https://cse.tcu.edu/faculty-staff/view/benjamin-janesko). Subsequently, in January 2021, I joined the [research group](https://levinegroup.org/) of [Prof. Benjamin G. Levine](https://www.stonybrook.edu/commcms/chemistry/faculty/_faculty-profiles/Levine_Benjamin) as a Postdoctoral Associate at Stony Brook University's Department of Chemistry and the Institute for Advanced Computational Science (IACS). During my tenure, I specialized in simulating ultrafast spectroscopy observations utilizing GPU-accelerated electronic structure methods, exploring excited-state dynamics, and investigating the photochemistry of molecular systems and quantum dots.
 
 I am currently working as a Senior Research Scientist in the Division of Information Technology (DoIT) - Research Computing, Informatics & Innovation, and the Institute for Advanced Computational Science (IACS) at Stony Brook University, NY.
 
