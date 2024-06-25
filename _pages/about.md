@@ -15,15 +15,15 @@ I am currently working as a Senior Research Scientist in the Division of Informa
 
 Educational Experience
 ------
-- 2007 - 2009 M.Sc Physical Chemistry, The Islamia University of Bahawalpur, Pakistan.
-- 2009 - 2011 M.Phil Physical Chemistry, The Islamia University of Bahawalpur, Pakistan.
-- 2015 - 2020 Ph.D Computational Chemistry, Texas Christian University, Fort Worth, Texas.
+- 2007 - 2009, M.Sc Physical Chemistry, The Islamia University of Bahawalpur, Pakistan.
+- 2009 - 2011, M.Phil Physical Chemistry, The Islamia University of Bahawalpur, Pakistan.
+- 2015 - 2020, Ph.D Computational Chemistry, Texas Christian University, Fort Worth, Texas.
 
 Professional Experience
 ------
-- 2009 - 2011 Lecturer of Chemistry (visiting), The Islamia University of Bahawalpur, Pakistan.
-- 2012 - 2015 Lecturer of Chemistry, GC University Lahore, Pakistan.
-- 2021 - 2023 Postdoctoral Associate, Stony Brook University, Stony Brook, NY.
+- 2009 - 2011, Lecturer of Chemistry (visiting), The Islamia University of Bahawalpur, Pakistan.
+- 2012 - 2015, Lecturer of Chemistry, GC University Lahore, Pakistan.
+- 2021 - 2023, Postdoctoral Associate, Stony Brook University, Stony Brook, NY.
 
 Research and Expertise
 ======
