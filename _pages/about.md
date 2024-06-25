@@ -17,7 +17,7 @@ Educational Experience
 ------
 - M.Sc in Physical Chemistry, The Islamia University of Bahawalpur, Pakistan, 2007 - 2009.
 - M.Phil in Physical Chemistry, The Islamia University of Bahawalpur, Pakistan, 2009 - 2011.
-- Ph.D in Computational Chemistry, Texas Christian University, Fort Worth, Texas, USA, 2015 - 2020.
+- Ph.D in Computational Chemistry, Texas Christian University, Texas, USA, 2015 - 2020.
 
 Professional Experience
 ------
