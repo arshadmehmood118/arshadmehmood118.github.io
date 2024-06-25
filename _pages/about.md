@@ -23,7 +23,7 @@ Professional Experience
 ------
 - Lecturer of Chemistry (Visiting), The Islamia University of Bahawalpur, Pakistan, 2009 - 2011.
 - Lecturer of Chemistry, GC University Lahore, Pakistan, 2012 - 2015.
-- Postdoctoral Associate, Stony Brook University, Stony Brook, NY, 2021 - 2023.
+- Postdoctoral Associate, Stony Brook University, Stony Brook, NY, 2021 - 2024.
 
 Research and Expertise
 ======
