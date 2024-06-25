@@ -13,6 +13,18 @@ I earned my PhD from [Texas Christian University](https://www.tcu.edu/) in Decem
 
 I am currently working as a Senior Research Scientist in the Division of Information Technology (DoIT) - Research Computing, Informatics & Innovation, and the Institute for Advanced Computational Science (IACS) at Stony Brook University.
 
+📖 Education
+------
+- *2007 - 2009*, M.Sc Physical Chemistry, The Islamia University of Bahawalpur, Pakistan.
+- *2009 - 2011*, M.Phil Physical Chemistry, The Islamia University of Bahawalpur, Pakistan.
+- *2015 - 2020*, Ph.D Computational Chemistry, Texas Christian University, Fort Worth, Texas.
+
+💻 Experience
+------
+- *2009 - 2011*, Lecturer of Chemistry (visiting), The Islamia University of Bahawalpur, Pakistan.
+- *2012 - 2015*, Lecturer of Chemistry, GC University Lahore, Pakistan.
+- *2021 - 2023*, Postdoctoral Associate, Stony Brook University, Stony Brook, NY.
+
 Research and Expertise
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
