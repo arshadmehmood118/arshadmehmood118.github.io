@@ -1,6 +1,6 @@
 ---
 title: "Ultrafast Spectroscopy and Excited-State Dynamics"
-excerpt: "Click on the [link](https://arshadmehmood118.github.io/portfolio/portfolio-1/) above to read more. <br/><br/><img src='/images/Ultrafast.png'>"
+excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-1/) to read about it. <br/><br/><img src='/images/Ultrafast.png'>"
 collection: portfolio
 ---
 
