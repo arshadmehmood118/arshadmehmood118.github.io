@@ -1,6 +1,6 @@
 ---
 title: "Modeling Defects in Materials and Quantum Dots"
-excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-2/) to read about it. <br/><br/><img src='/images/Ultrafast.png'>"
+excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-2/) to read about it. <br/><br/><img src='/images/Defects.png'>"
 collection: portfolio
 ---
 
