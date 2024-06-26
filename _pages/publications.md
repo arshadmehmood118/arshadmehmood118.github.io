@@ -11,4 +11,4 @@ author_profile: true
 
 Before 2016
 ------
-1. Khurshid, S.; Kausar, S.; Afzal, S.; Adnan, A.; **Mehmood, A.**; Arshad, M.; Bukhari, Z. A., Adsorption Study of Nymphaea Alba for the Removal of Manganese from Industrial Waste Water. _Int. J. Phys. Sci._ **2013**, _8_ (45), 2057-2062.
+1. Khurshid, S.; Kausar, S.; Afzal, S.; Adnan, A.; **Mehmood, A.**; Arshad, M.; Bukhari, Z. A., [Adsorption Study of Nymphaea Alba for the Removal of Manganese from Industrial Waste Water](https://doi.org/10.5897/IJPS12.717). _Int. J. Phys. Sci._ **2013**, _8_ (45), 2057-2062. [Download](http://arshadmehmood118.github.io/files/paper1.pdf)
