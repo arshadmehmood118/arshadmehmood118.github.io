@@ -25,8 +25,18 @@ Professional Experience
 - Lecturer of Chemistry, GC University Lahore, Pakistan, 2012 - 2015.
 - Postdoctoral Associate, Stony Brook University, Stony Brook, NY, 2021 - 2024.
 
-Research and Expertise
-======
+Overview of Research and Expertise
+------
+The understanding of excited state processes and material defects is a key driver of human innovation and sustainable synthesis. My research focuses on simulating ultrafast spectroscopy observables and photochemical reactions to elucidate the complex dynamics of molecules in their excited states. Additionally, I investigate the role of defects in materials to harness their unique properties for technological advancements. My expertise in developing electronic structure visualization tools and quantum crystallography further enhances our ability to model and interpret complex molecular and material behaviors. These efforts not only deepen our fundamental scientific knowledge but also pave the way for breakthroughs in energy efficiency, material science, and computational methodologies, driving forward innovation and sustainability.
+
+Broadly, my research covers the areas of:
+- Ultrafast spectroscopy and photochemistry
+- Material defects and their applications
+- Electronic structure visualization tools
+- Quantum crystallography
+
+Click on the [Research](https://arshadmehmood118.github.io/portfolio/) tab to read more.  
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
