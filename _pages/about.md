@@ -30,10 +30,11 @@ Overview of Research and Expertise
 The understanding of excited state processes and material defects is a key driver of human innovation and sustainable synthesis. My research focuses on simulating ultrafast spectroscopy observables and photochemical reactions to elucidate the complex dynamics of molecules in their excited states. Additionally, I investigate the role of defects in materials to harness their unique properties for technological advancements. My expertise in developing electronic structure visualization tools and quantum crystallography further enhances our ability to model and interpret complex molecular and material behaviors. These efforts not only deepen our fundamental scientific knowledge but also pave the way for breakthroughs in energy efficiency, material science, and computational methodologies, driving forward innovation and sustainability.
 
 Broadly, my research covers the areas of:
-- Ultrafast spectroscopy and photochemistry
-- Material defects and their applications
-- Electronic structure visualization tools
-- Quantum crystallography
+- Simulations of ultrafast spectroscopy and photochemistry of molecules and quantum dots
+- Modeling defects in materials and their applications
+- Development of electronic structure visualization tools to interpret chemical reactivity
+- GPU-accelerated electronic structure calculations
+- Quantum crystallography and charge density analysis
 
 Click on the [Research](https://arshadmehmood118.github.io/portfolio/) tab to read more.  
 
