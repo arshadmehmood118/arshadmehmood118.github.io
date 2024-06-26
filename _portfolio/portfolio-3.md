@@ -1,6 +1,6 @@
 ---
 title: "Development of Electronic Structure Visualization Tools"
-excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-3/) to read about it. <br/><br/><img src='/images/Ultrafast.png'>"
+excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-3/) to read about it. <br/><br/><img src='/images/EDR.png'>"
 collection: portfolio
 ---
 
