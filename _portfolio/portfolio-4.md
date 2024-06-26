@@ -1,6 +1,6 @@
 ---
 title: "Quantum Crystallography"
-excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-4/) to read about it. <br/><br/><img src='/images/Ultrafast.png'>"
+excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/portfolio-4/) to read about it. <br/><br/><img src='/images/Xray.png'>"
 collection: portfolio
 ---
 
