@@ -6,26 +6,32 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
+
+2021
+------
+19\. Iqbal, A.; **Mehmood, A.**; Noureen, S.; Ahmed, A., [Crystal Engineering of Co-crystal of Nicotinic Acid and Pyrogallol: An Experimental and Theoretical Electron Density Analysis](https://doi.org/10.1107/S2052520621011000). _Acta. Cryst. B._ **2021**, _77_, 1035-1047. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper19.pdf))
 
 2020
 ------
-17\. Enciso, A. E.; Lorandi, F.; **Mehmood, A.**; Fantin, M.; Szczepaniak, G.; Janesko, B. J.; Matyjaszewski, K., [p-Substituted Tris(2-pyridylmethyl)amines as Ligands for Highly Active ATRP Catalysts: Facile Synthesis and Characterization](https://doi.org/10.1002/anie.202004724). _Angew. Chem. Int. Ed._ **2020**, _59_, 14910-14920. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper17.pdf))
+18\. Enciso, A. E.; Lorandi, F.; **Mehmood, A.**; Fantin, M.; Szczepaniak, G.; Janesko, B. J.; Matyjaszewski, K., [p-Substituted Tris(2-pyridylmethyl)amines as Ligands for Highly Active ATRP Catalysts: Facile Synthesis and Characterization](https://doi.org/10.1002/anie.202004724). _Angew. Chem. Int. Ed._ **2020**, _59_, 14910-14920. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper18.pdf))
 
-16\. **Mehmood, A.***; Janesko, B. G., [Extending the Marcus μ-Scale of Solvent Softness Using Conceptual Density Functional Theory and the Orbital Overlap Distance: Method and Application to Ionic Liquids](https://doi.org/10.1007/s10953-020-00973-5). _J. Solution Chem_ **2020**, _49_, 614–628. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper16.pdf))
+17\. **Mehmood, A.***; Janesko, B. G., [Extending the Marcus μ-Scale of Solvent Softness Using Conceptual Density Functional Theory and the Orbital Overlap Distance: Method and Application to Ionic Liquids](https://doi.org/10.1007/s10953-020-00973-5). _J. Solution Chem._ **2020**, _49_, 614–628. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper17.pdf))
 
-15\. **Mehmood, A.**; Fahim, A.; Ahmed, M.; Noureen, S., [Regioselectivity of Reduction of Nitro Groups in 3, 5-dinitrosalicylic Acid Monohydrate Explored by Experimental and Theoretical Charge Density Analysis](https://doi.org/10.1016/j.molstruc.2020.128483). _J. Mol. Struct_ **2020**, _1216_ (4), 128483. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper15.pdf))
+16\. **Mehmood, A.**; Fahim, A.; Ahmed, M.; Noureen, S., [Regioselectivity of Reduction of Nitro Groups in 3, 5-dinitrosalicylic Acid Monohydrate Explored by Experimental and Theoretical Charge Density Analysis](https://doi.org/10.1016/j.molstruc.2020.128483). _J. Mol. Struct._ **2020**, _1216_ (4), 128483. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper16.pdf))
 
-14\. Hasil, A.; **Mehmood, A.**; Noureen, S.; Ahmed, M., [Experimental and Theoretical Charge Density Analysis of Skin Whitening Agent Kojic Acid](https://doi.org/10.1016/j.molstruc.2020.128295). _J. Mol. Struct_ **2020**, _1216_ (4), 128295. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper14.pdf))
+15\. Hasil, A.; **Mehmood, A.**; Noureen, S.; Ahmed, M., [Experimental and Theoretical Charge Density Analysis of Skin Whitening Agent Kojic Acid](https://doi.org/10.1016/j.molstruc.2020.128295). _J. Mol. Struct_ **2020**, _1216_ (4), 128295. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper15.pdf))
 
-13\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [Efficient Syntheses of Macrocycles Ranging from 22–28 Atoms Through Spontaneous Dimerization to Yield bis-hydrazones](DOI	https://doi.org/10.1039/C9RA08056B). _RSC Adv._ **2020**, _10_ (6), 3217-3220. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper13.pdf))
+14\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [Efficient Syntheses of Macrocycles Ranging from 22–28 Atoms Through Spontaneous Dimerization to Yield bis-hydrazones](DOI	https://doi.org/10.1039/C9RA08056B). _RSC Adv._ **2020**, _10_ (6), 3217-3220. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper14.pdf))
 
-12\. Faroque, M. U.; **Mehmood, A.**; Noureen, S.; Ahmed, M., [Crystal Engineering and Electrostatic Properties of Co-crystals of Pyrimethamine with Benzoic Acid and Gallic Acid](https://doi.org/10.1016/j.molstruc.2020.128183). _J. Mol. Struct._ **2020**, _75_, 128183. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper12.pdf))
+13\. Faroque, M. U.; **Mehmood, A.**; Noureen, S.; Ahmed, M., [Crystal Engineering and Electrostatic Properties of Co-crystals of Pyrimethamine with Benzoic Acid and Gallic Acid](https://doi.org/10.1016/j.molstruc.2020.128183). _J. Mol. Struct._ **2020**, _75_, 128183. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper13.pdf))
 
 2019
 ------
-11\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [A Hydrogen Bond and Strong Electron Withdrawing Group Lead to the Formation of Surprisingly Stable, Cyclic Hemiaminals](https://doi.org/10.1016/j.tetlet.2019.151334). _Tetrahedron Lett._ **2019**, 151334. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper11.pdf))
+12\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [A Hydrogen Bond and Strong Electron Withdrawing Group Lead to the Formation of Surprisingly Stable, Cyclic Hemiaminals](https://doi.org/10.1016/j.tetlet.2019.151334). _Tetrahedron Lett._ **2019**, 151334. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper12.pdf))
+
+11.\ Kanwal, N.; Khan, I.U.; Sharif, S.; Hussain, E. A; **Mehmood, A.**; Sahin, O., [Efficient Syntheses, Crystal Structure and Thermal Properties of Gabapentin 4-Acetamido, 2-Mesitylene and 2,4-Dinitro Sulfonamides Derivatives](https://doi.org/10.1007/s10870-018-00765-2). _J Chem Crystallogr._ **2019**,_49_, 162–168. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper11.pdf))
 
 10\. Hasil, A.; **Mehmood, A.**; Ahmed, M., [Experimental and Theoretical Charge-Density Analysis of Hippuric Acid: Insight Into its Binding with Human Serum Albumin](https://doi.org/10.1107/S2052520619007911). _Acta Cryst. B_ **2019**, _75_ (4), 750-762. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper10.pdf))
 
