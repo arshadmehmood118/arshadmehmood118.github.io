@@ -9,6 +9,29 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
+2024
+------
+27\. Sowa, J. K.; Cadena, D. M.; **Mehmood, A.**; Levine, B. G.; Roberts, S. T.; Rossky, P. J. [IR Spectroscopy of Carboxylate-Passivated Semiconducting Nanocrystals: Simulation and Experiment](https://doi.org/10.1021/acs.jpcc.4c01988). _J. Phys. Chem. C_ **2024**, _128_ (21), 8724-8731. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper27.pdf))
+
+2023
+------
+26\. Bian, Z.; Wallum, A.; **Mehmood, A.**; Gomez, E.; Wang, Z.; Pandit, S.; Nie, S.; Link, S.; Levine, B. G.; Gruebele, M. [Properties of Carbon Dots versus Small Molecules from “Bottom-up” Synthesis](https://doi.org/10.1021/acsnano.3c07486). _ACS Nano_ **2023**, _17_ (22), 22788-22799. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper26.pdf))
+
+25\. Silfies, M. C.; **Mehmood, A.**; Kowzan, G.; Hohenstein, E. G.; Levine, B. G.; Allison, T. K., [Ultrafast internal conversion and photochromism in gas-phase salicylideneaniline](https://doi.org/10.1063/5.0161238
+). _J. Chem. Phys._ **2023**, _159_, 104304. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper25.pdf))
+
+24\. Khanam, H.; **Mehmood, A.**; Ahmed, A.; Noureen, S., [In the pursuit of a ‘disappearing solvatomorph’ of antipyrine-dipicolinic acid (ANT-DPA) co-crystal: explained through relative stability and charge density analyses](https://doi.org/10.1039/D3CE00591G). _CrystEngComm_ **2023**, _25_, 6478-6488. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper24.pdf))
+
+23\. Iqbal, I.; **Mehmood, A.**; Noureen, S.; Lecomte, C.; Ahmed, A., [Crystal engineering, electron density analysis, and in situ variable temperature studies on co-crystal between nicotinic acid and gallic acid sesquihydrate](https://doi.org/10.1039/D2CE01149B). _CrystEngComm_ **2023**, _25_, 770-784. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper23.pdf))
+
+2022
+------
+22\. Bilal, A.; **Mehmood, A.**; Noureen, S.; Lecomte, C.; Ahmed, A., [Crystal engineering of a co-crystal of antipyrine and 2-chlorobenzoic acid: relative energetic contributions based on multipolar refinement](https://doi.org/10.1039/D2CE01179D). _CrystEngComm_ **2022**, _24_, 7758-7770. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper22.pdf))
+
+21\. Kulikov, O. V.; **Mehmood, A.**; Sevryugina, Y. V., [Polymerizable Channel-like Stacks Derived from Cyclic Tetrameric Diacetylenes](https://doi.org/10.1016/j.rinma.2022.100262). _Results in Materials_ **2022**, _13_, 100262. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper21.pdf))
+
+20\. Akram, S.; **Mehmood, A.**; Noureen, S.; Lecomte, C.; Ahmed, A., [Thermal-induced Transformation of Glutamic Acid to Pyroglutamic Acid and Self-cocrystallization: A Charge–Density Analysis](https://doi.org/10.1107/S2053229621013607). _Acta. Cryst. C._ **2022**, _78_, 72-80. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper20.pdf))
+
 2021
 ------
 19\. Iqbal, A.; **Mehmood, A.**; Noureen, S.; Ahmed, A., [Crystal Engineering of Co-crystal of Nicotinic Acid and Pyrogallol: An Experimental and Theoretical Electron Density Analysis](https://doi.org/10.1107/S2052520621009124). _Acta. Cryst. B._ **2021**, _77_ (6), 1035-1047. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper19.pdf))
