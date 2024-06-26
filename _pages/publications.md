@@ -11,7 +11,7 @@ author_profile: true
 
 2021
 ------
-19\. Iqbal, A.; **Mehmood, A.**; Noureen, S.; Ahmed, A., [Crystal Engineering of Co-crystal of Nicotinic Acid and Pyrogallol: An Experimental and Theoretical Electron Density Analysis](https://doi.org/10.1107/S2052520621011000). _Acta. Cryst. B._ **2021**, _77_, 1035-1047. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper19.pdf))
+19\. Iqbal, A.; **Mehmood, A.**; Noureen, S.; Ahmed, A., [Crystal Engineering of Co-crystal of Nicotinic Acid and Pyrogallol: An Experimental and Theoretical Electron Density Analysis](https://doi.org/10.1107/S2052520621009124). _Acta. Cryst. B._ **2021**, _77_ (6), 1035-1047. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper19.pdf))
 
 2020
 ------
@@ -31,7 +31,7 @@ author_profile: true
 ------
 12\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [A Hydrogen Bond and Strong Electron Withdrawing Group Lead to the Formation of Surprisingly Stable, Cyclic Hemiaminals](https://doi.org/10.1016/j.tetlet.2019.151334). _Tetrahedron Lett._ **2019**, 151334. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper12.pdf))
 
-11.\ Kanwal, N.; Khan, I.U.; Sharif, S.; Hussain, E. A; **Mehmood, A.**; Sahin, O., [Efficient Syntheses, Crystal Structure and Thermal Properties of Gabapentin 4-Acetamido, 2-Mesitylene and 2,4-Dinitro Sulfonamides Derivatives](https://doi.org/10.1007/s10870-018-00765-2). _J Chem Crystallogr._ **2019**,_49_, 162–168. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper11.pdf))
+11\. Kanwal, N.; Khan, I.U.; Sharif, S.; Hussain, E. A; **Mehmood, A.**; Sahin, O., [Efficient Syntheses, Crystal Structure and Thermal Properties of Gabapentin 4-Acetamido, 2-Mesitylene and 2,4-Dinitro Sulfonamides Derivatives](https://doi.org/10.1007/s10870-018-00765-2). _J Chem Crystallogr._ **2019**,_49_, 162–168. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper11.pdf))
 
 10\. Hasil, A.; **Mehmood, A.**; Ahmed, M., [Experimental and Theoretical Charge-Density Analysis of Hippuric Acid: Insight Into its Binding with Human Serum Albumin](https://doi.org/10.1107/S2052520619007911). _Acta Cryst. B_ **2019**, _75_ (4), 750-762. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper10.pdf))
 
