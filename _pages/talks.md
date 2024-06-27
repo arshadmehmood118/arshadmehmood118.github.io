@@ -11,12 +11,12 @@ Interested in having me speak at your upcoming event, departmental seminar or co
 
 Oral Presentations
 ------
-7\. **Simulations of Ultrafast Spectroscopy Observables Using the GPU-accelerated Time-dependent Complete Active Space Configuration Interaction Method** | [Video](https://quantum-dynamics-hub.github.io/VISTA/69-episode/index.html) 
-- [Virtual International Seminar on Theoretical Advancements (VISTA)](https://quantum-dynamics-hub.github.io/VISTA/)
+7\. **Simulations of Ultrafast Spectroscopy Observables Using the GPU-accelerated Time-dependent Complete Active Space Configuration Interaction Method** | [[Video]](https://quantum-dynamics-hub.github.io/VISTA/69-episode/index.html) 
+- Virtual International Seminar on Theoretical Advancements (VISTA)
 - May 15<sup>th</sup>, 2024
 - Online.
 
-6\. **Painting with Light: A Journey of Interpretation** | [Video](https://www.youtube.com/watch?v=MsDeT1OEN78)
+6\. **Painting with Light: A Journey of Interpretation** | [[Video]](https://www.youtube.com/watch?v=MsDeT1OEN78)
 - SBU Postdoc Spotlight
 - November 16<sup>th</sup>, 2023
 - Stony Brook, NY.
