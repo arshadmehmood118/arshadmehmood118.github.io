@@ -1,3 +1,8 @@
+---
+title: "Modeling Defects in Materials and Quantum Dots"
+excerpt: "Click on the above [link](https://arshadmehmood118.github.io/portfolio/2_defects/) to read about it. <br/><br/><img src='/images/Defects.png'>"
+collection: portfolio
+---
 
 The simulation of defects in materials is a crucial area of research with wide-ranging implications for both fundamental science and practical applications. Understanding how atomic-scale defects influence the properties of materials can lead to advancements in technologies such as photovoltaics, photocatalysis, and sensor devices. By leveraging computational chemistry techniques to model and predict the behavior of defects, researchers can gain deeper insights into material properties, optimize manufacturing processes, and develop novel materials with tailored functionalities.
 
