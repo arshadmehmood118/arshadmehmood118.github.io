@@ -46,7 +46,7 @@ author_profile: true
 
 15\. Hasil, A.; **Mehmood, A.**; Noureen, S.; Ahmed, M., [Experimental and Theoretical Charge Density Analysis of Skin Whitening Agent Kojic Acid](https://doi.org/10.1016/j.molstruc.2020.128295). _J. Mol. Struct_ **2020**, _1216_ (4), 128295. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper15.pdf))
 
-14\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [Efficient Syntheses of Macrocycles Ranging from 22–28 Atoms Through Spontaneous Dimerization to Yield bis-hydrazones](DOI	https://doi.org/10.1039/C9RA08056B). _RSC Adv._ **2020**, _10_ (6), 3217-3220. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper14.pdf))
+14\. Sharma, V.; **Mehmood, A.**; Janesko, B. G.; Simanek, E. E., [Efficient Syntheses of Macrocycles Ranging from 22–28 Atoms Through Spontaneous Dimerization to Yield bis-hydrazones](https://doi.org/10.1039/C9RA08056B). _RSC Adv._ **2020**, _10_ (6), 3217-3220. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper14.pdf))
 
 13\. Faroque, M. U.; **Mehmood, A.**; Noureen, S.; Ahmed, M., [Crystal Engineering and Electrostatic Properties of Co-crystals of Pyrimethamine with Benzoic Acid and Gallic Acid](https://doi.org/10.1016/j.molstruc.2020.128183). _J. Mol. Struct._ **2020**, _75_, 128183. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper13.pdf))
 
