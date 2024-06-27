@@ -11,6 +11,11 @@ author_profile: true
 
 2024
 ------
+29\. **Mehmood, A.**; Silfies, M. C.; Durden, A. S.; Allison, T. K.; Levine, B. G. [Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe](
+https://doi.org/10.48550/arXiv.2404.16568). arXiv 2024; arXiv:2404.16568 2024. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper29.pdf))
+
+28\. Hernández, H. M.; Ohtsuka, S.; **Mehmood, A.**; Bordenca, J.; Wen, W.; Levine, B. G.; Johnson, C. J. [Resonance Effects from Substituents on L-Type Ligands Mediate Synthetic Control of Gold Nanocluster Frontier Orbital Energies](https://doi.org/10.48550/arXiv.2404.16568). ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-csv33. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper28.pdf))
+
 27\. Sowa, J. K.; Cadena, D. M.; **Mehmood, A.**; Levine, B. G.; Roberts, S. T.; Rossky, P. J. [IR Spectroscopy of Carboxylate-Passivated Semiconducting Nanocrystals: Simulation and Experiment](https://doi.org/10.1021/acs.jpcc.4c01988). _J. Phys. Chem. C_ **2024**, _128_ (21), 8724-8731. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper27.pdf))
 
 2023
