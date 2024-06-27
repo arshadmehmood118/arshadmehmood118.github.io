@@ -13,7 +13,7 @@ First-principles nonadiabatic molecular dynamics methods, such as ab initio mult
 
 The initial application of my approach on prototypical molecules Salicylideneaniline, 1’-Hydroxy-2’-acetonaphthone and 2-Nitrophenol showed that the simulated spectra are highly consistent with the gas-phase experimental TA studies. My methodology provides the added advantage of separately simulating the spectrum of excited state trajectories evolved on the ground vs excited state and/or those undergoing distinct photochemical relaxation pathways, providing a more comprehensive and critical insight into the experimental TA spectrum. Additionally, the methodology provides a dynamic picture of TA spectrum evolution along a specific degree of freedom like a movie (see illustration below), paving the way towards better assignment of the components of the experimental spectrum.
 <p align="center">
-  ![Alt Text](/images/han_esipt_tas)
+  ![Alt Text](/images/han_esipt_tas.gif)
 </p>
 
 To learn more about this topic, please refer to my papers on [Salicylideneaniline](https://arshadmehmood118.github.io/files/paper25.pdf) and [1’-Hydroxy-2’-acetonaphthone](https://arshadmehmood118.github.io/files/paper29.pdf), as well as this [poster](https://arshadmehmood118.github.io/files/poster7.pdf).
