@@ -7,7 +7,7 @@ event: "TBD"
 location: "TBD"
 ---
 
-Interested in having me speak at your upcoming event or conference? 
+Interested in having me speak at your upcoming event, departmental seminar or conference? 
 
 Who am I?
 - Data Scientist in the travel tech industry
