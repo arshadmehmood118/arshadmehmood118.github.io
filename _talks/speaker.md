@@ -29,5 +29,5 @@ Interested in having me speak at your upcoming event, departmental seminar or co
 - **Scientific Computing and Software Development:** Best practices in using high-performance computing resources, GPU acceleration, and open-source software
 - **Mentorship and Education in Science:** Strategies for mentoring students and fostering a collaborative research environment
 
-Interested in having me speak at your upcoming event or conference? Contact me via [arshad.mehmood@stonybrook.edu](arshad.mehmood@stonybrook.edu) to discuss further.
+Interested in having me speak at your upcoming event or conference? Contact me via [arshad.mehmood@stonybrook.edu](mailto:arshad.mehmood@stonybrook.edu) to discuss further.
 
