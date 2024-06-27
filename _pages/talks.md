@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Speaker Opportunities](https://arshadmehmood118.github.io/talks/2012-03-01-talk-1)
+[Speaker Opportunities](https://arshadmehmood118.github.io/talks/speaker)
 ------
 Interested in having me speak at your upcoming event, departmental seminar or conference?
 
