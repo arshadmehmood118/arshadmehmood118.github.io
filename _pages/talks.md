@@ -4,6 +4,5 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+
+{% for post in site.talks reversed %} {% include archive-single-talk.html %} {% endfor %}
