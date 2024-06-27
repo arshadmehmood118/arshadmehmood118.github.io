@@ -41,7 +41,7 @@ I applied \\(D(\vec{r})\\) plots to address the problems of medicinal chemistry,
   <img src='/images/EDR.png'>
 </p>
 
-For more details on these projects, refer to articles [3](https://arshadmehmood118.github.io/files/paper3.pdf), [5](https://arshadmehmood118.github.io/files/paper5.pdf), [7](https://arshadmehmood118.github.io/files/paper7.pdf), [8](https://arshadmehmood118.github.io/files/paper8.pdf), and [17](https://arshadmehmood118.github.io/files/paper3.pdf) from my [publications](https://arshadmehmood118.github.io/publications/). 
+For more details on these projects, refer to articles [3](https://arshadmehmood118.github.io/files/paper3.pdf), [5](https://arshadmehmood118.github.io/files/paper5.pdf), [7](https://arshadmehmood118.github.io/files/paper7.pdf), [8](https://arshadmehmood118.github.io/files/paper8.pdf), and [17](https://arshadmehmood118.github.io/files/paper17.pdf) from my [publications](https://arshadmehmood118.github.io/publications/). 
 
 
 
