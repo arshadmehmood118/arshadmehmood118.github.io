@@ -11,7 +11,7 @@ author_profile: true
 
 2024
 ------
-30\. Ostovar, B.; Lee, S. A.; **Mehmood, A.**; Farrell, K.; Searles, E. K.; Bourgeois, B.; Chiang, W.-Y.; Misiura, A.; Gross, N.; Al-Zubeidi, A.; Dionne, J. A.; Landes, F. C.; Zanni , M.; Levine, B. G.; Link, S.  The role of the plasmon in interfacial charge transfer. _Sci. Adv_. **2024**, _10_ (27), eadp3353. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper30.pdf)). 
+30\. Ostovar, B.; Lee, S. A.; **Mehmood, A.**; Farrell, K.; Searles, E. K.; Bourgeois, B.; Chiang, W.-Y.; Misiura, A.; Gross, N.; Al-Zubeidi, A.; Dionne, J. A.; Landes, F. C.; Zanni , M.; Levine, B. G.; Link, S.  [The role of the plasmon in interfacial charge transfer](https://doi.org/10.1126/sciadv.adp3353). _Sci. Adv_. **2024**, _10_ (27), eadp3353. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper30.pdf)). 
 
 29\. **Mehmood, A.**; Silfies, M. C.; Durden, A. S.; Allison, T. K.; Levine, B. G. [Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe](
 https://doi.org/10.48550/arXiv.2404.16568). arXiv preprint; arXiv:2404.16568 2024. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper29.pdf))
