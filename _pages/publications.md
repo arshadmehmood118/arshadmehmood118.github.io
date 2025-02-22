@@ -9,14 +9,28 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
+2025
+------
+35\. Bian, Z.; Gomez, E.; Gruebele, M.; Levine, B. G.; Link, S.; **Mehmood, A.**; Nie, S. [Bottom-up carbon dots: purification, single-particle dynamics, and electronic structure.](https://doi.org/10.1039/D4SC05843G). _Chem. Sci._ **2025**, _Advance Article_. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper35.pdf))
+
+34\. **Mehmood, A.**; Janesko, B. G. [An orbital-overlap complement to σ-hole electrostatic potentials.](https://doi.org/10.1039/D4CP03851G). _Phys. Chem. Chem. Phys._ **2025**, _27_, 861-867. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper34.pdf))
+
+33\. Stamm, J.; Priyadarsini, S. S.; Sandhu, S.; Chakraborty, A.; Shen, J.; Kwon, S.; Sandhu, J.; Wicka, C.; **Mehmood, A.**; Levine, B. G.; et al. [Factors governing H<sub>3</sub><sup>+</sup> formation from methyl
+halogens and pseudohalogens.](https://doi.org/10.1038/s41467-024-55065-5). _Nat. Commun._ **2025**, _16_(1), 410. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper33.pdf))
+
 2024
 ------
+32\. Ibele, L. M.; **Mehmood, A.**; Levine, B. G.; Avagliano, D. [Ab Initio Multiple Spawning Nonadiabatic Dynamics with Different CASPT2 Flavors: A Fully Open-Source PySpawn/OpenMolcas Interface.](
+https://doi.org/10.1021/acs.jctc.4c00855). _J. Chem. Theory Comput._ **2024**, _20_(18), 8140–8151. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper32.pdf))
+
+31\. **Mehmood, A.**; Silfies, M. C.; Durden, A. S.; Allison, T. K.; Levine, B. G. [Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe](
+https://doi.org/10.1063/5.0215890). _J. Chem. Phys._ **2024**, _161_, 044107. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper31.pdf))
+
 30\. Ostovar, B.; Lee, S. A.; **Mehmood, A.**; Farrell, K.; Searles, E. K.; Bourgeois, B.; Chiang, W.-Y.; Misiura, A.; Gross, N.; Al-Zubeidi, A.; Dionne, J. A.; Landes, F. C.; Zanni , M.; Levine, B. G.; Link, S.  [The role of the plasmon in interfacial charge transfer](https://doi.org/10.1126/sciadv.adp3353). _Sci. Adv_. **2024**, _10_ (27), eadp3353. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper30.pdf)). 
 
-29\. **Mehmood, A.**; Silfies, M. C.; Durden, A. S.; Allison, T. K.; Levine, B. G. [Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe](
-https://doi.org/10.48550/arXiv.2404.16568). arXiv preprint; arXiv:2404.16568 2024. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper29.pdf))
+29\. Kulikov, O. A.; **Mehmood, A.**; Vodzinsky, S. [Supramolecular blends of C-alkylpyrogallol[4]arenes and polytetrahydrofurans]([https://doi.org/10.1021/acs.jpclett.4c02580](https://doi.org/10.1016/j.rechem.2024.101804)). _Results in Chemistry_ **2024**, _11_, 101804. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper29.pdf))
 
-28\. Hernández, H. M.; Ohtsuka, S.; **Mehmood, A.**; Bordenca, J.; Wen, W.; Levine, B. G.; Johnson, C. J. [Resonance Effects from Substituents on L-Type Ligands Mediate Synthetic Control of Gold Nanocluster Frontier Orbital Energies](https://doi.org/10.48550/arXiv.2404.16568). ChemRxiv preprint; doi:10.26434/chemrxiv-2024-csv33. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper28.pdf))
+28\. Hernández, H. M.; Ohtsuka, S.; **Mehmood, A.**; Bordenca, J.; Wen, W.; Levine, B. G.; Johnson, C. J. [Resonance Effects from Substituents on L-Type Ligands Mediate Synthetic Control of Gold Nanocluster Frontier Orbital Energies](https://doi.org/10.1021/acs.jpclett.4c02580). _J. Phys. Chem. Lett_ **2024**, _15_ (40), 10244-10251. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper28.pdf))
 
 27\. Sowa, J. K.; Cadena, D. M.; **Mehmood, A.**; Levine, B. G.; Roberts, S. T.; Rossky, P. J. [IR Spectroscopy of Carboxylate-Passivated Semiconducting Nanocrystals: Simulation and Experiment](https://doi.org/10.1021/acs.jpcc.4c01988). _J. Phys. Chem. C_ **2024**, _128_ (21), 8724-8731. ([<span style="color:red; font-size:0.8em;">Download</span>](http://arshadmehmood118.github.io/files/paper27.pdf))
 
